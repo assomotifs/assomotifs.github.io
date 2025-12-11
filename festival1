@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Festival de MOTIFS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo">MOTIFS</a></h1>
+							</header>
+						</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Accueil</a></li>
+									<li>
+										<a href="#">Musique</a>
+										<ul>
+											<li><a href="equipage.html">L'Equipage</a></li>
+											<li><a href="freaeltime.html">FREÆLTIME</a></li>
+											<li><a href="calmdown.html">Calm Down</a></li>
+											<li><a href="animjazz.html">Animation musicale</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">Photographie</a>
+										<ul>
+											<li><a href="lyonauxquais.html">Lyon-aux-quais (Lyon, 2017)</a></li>
+											<li><a href="effimeroom.html">Exposition Effimeroom (Firenze, 2017)</a></li>
+											<li><a href="manhattan2012.html">Manhattan (New York, 2012)</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">Objets</a>
+										<ul>
+											<li><a href="flair.html">flair: verres de dégustation</a></li>
+											<li><a href="photocubes.html">photocubes: support innovant</a></li>
+											<li>
+												<a href="argiles.html">argiles &hellip;</a>
+												<ul>
+													<li><a href="argiles.html#Visage1">Visage#1</a></li>
+													<li><a href="argiles.html#Happingu">Happingu</a></li>
+													<li><a href="argiles.html#Flutiste">Flûtiste</a></li>
+													<li><a href="argiles.html#LaConcertiste">La concertiste</a></li>
+													<li><a href="argiles.html#PremicesCubes">Prémisces</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">Jeux</a>
+										<ul>
+											<li><a href="memaudio.html">memaudio: memory pour l'ouïe</a></li>
+										</ul>
+									</li>
+
+							</nav>
+
+				</div>
+
+			<!-- Main -->
+				<div class="wrapper style1">
+
+					<div class="container">
+						<article id="main" class="special">
+							
+							<header>
+								<h2> Festival de MOTIFS</a></h2>
+								
+							</header>
+								<p>
+									1ère édition - 25 oct. 2024 <br/>
+                  <a href="https://www.villeurbanne.fr/annuaire/vie-associative-et-centres-sociaux/services-de-la-mairie/centre-culturel-et-de-la-vie-associative-ccva" target="_blank" >CCVA Villeurbanne </a>
+								<br/>
+									
+								<img  class="image medium" src="images/festival/select/Programme_Festive_de_MOTIFS_small.jpg" alt="programme festival" />
+								</p>
+								
+								<a href="https://www.helloasso.com/associations/association-motifs/evenements/festival-de-motifs-25-oct-2024" target="_blank"  style="position:relative;width: 40%;left: 30%;" class="button">Réservez votre place <br> en cliquant ici!</a>
+								
+							<section>
+								<header>
+									<h3 id="theatre">Théâtre</h3>
+								</header>
+
+								<img  class="image medium" src="images/festival/select/IMG-20240908-WA0000.jpg" alt="theatre photo comédiennes" />
+
+								<p> "La propriété c'est le vol" de Alexandre Papias <br/>
+									"Une enveloppe pleine de billets, appartenant à l'impresario M.Brochet, s'est mystérieusement volatilisée de son bureau. 
+									Laquelle des quatre femmes employées par l'impresario est coupable ?
+									Chacune à sa façon, va défendre sa cause auprès de l'inspecteur chargé de l'enquête. 
+									La vérité sera-t-elle au bout de l'enquête ?"
+									
+								</p>
+							</section>
+
+							<section>
+								<header>
+									<h3 id="Concerts">Concerts (3 groupes)</h3>
+								</header>
+								<h4> En attendant l'automne (Jazz)</h4> <br/>
+
+									<img  class="image medium" src="images/festival/select/fbBe4WRg.jpg" alt="Photo de « En attendant l’automne »" />
+									<span align="center"> © C.C. 2024 </span>
+									<br/>
+						
+									<p>
+									« En attendant l’automne » c’est un trio de jazz. 
+									Le problème, c’est qu’au moment de lire ces lignes, vous serez en automne.
+									Zut… le nom du trio n’a plus de sens.
+									C’est pas grave.
+									C’est pas grave parce que au fond, « En attendant l’automne », ça n’a de sens 
+									que celui que vous y mettez.
+									La seule chose qu’on espère, c’est que ça vous raconte quelque-chose.
+
+									Ce trio est le premier projet de Colin Chéritel (batterie, composition, arrangement), accompagné par Malou Srauss (saxophone)
+									et Léo Messina (contrebasse).
+									</p>
+
+
+
+									
+									<h4><a href="https://www.youtube.com/@equipagejazz" target="_blanck" alt="https://www.youtube.com/@equipagejazz"> L'équipage (Jazz-Rock)</a></h4> <br/>
+									<img  class="image medium" src="images/equipage/equipage_toitoi.jpg" alt="Photo de l'équipage" />
+									<span align="center"> © W.S. 2022 </span>
+									<p>
+									L'équipage est un groupe de jazz-rock électrique dont le répertoire original s'inspire des artistes comme Weather Report, Snarky Puppy, Bob Reynolds, Nate Smith, Vulfpeck, Tigran, Mehliana, Blast et bien d’autres. 
+									Un voyage aux puissants paysages en perspective. 
+									</p>
+									<h4>Brass Tax (Jazz-Funk)</h4> <br/>
+				
+									<img  class="image medium" src="images/festival/select/brass_tax.png" alt="Représentation par M.J. de Brass Tax." />
+									<span align="center"> © M.J. 2024 </span>
+									<p>Collectif lyonnais réuni autour de l'amour de la musique Funk et Jazz Fusion de toutes époques, Brass Tax délivre un répertoire groovy mêlant compositions originales et tubes intemporels. On vous rassure, l'écoute du groupe en live ne sera pas surtaxée.</p>
+
+							
+							</section>
+              
+							<section>
+								<header>
+									<h3 id="Photographies">Photographies (3 artistes)</h3>
+								</header>
+								<p> <a href="https://adelegodefroy.com" target="_blanck">Adèle Godefroy</a>  <br/>
+								<img  class="image medium" src="images/festival/select/IMG-20240907-WA0002.jpg" alt="A.G. Autoportrait, juillet 2024" />
+								<span align="center"> A.G. Autoportrait, juillet 2024 </span>
+
+
+									<br/>
+
+									<a href="https://www.instagram.com/alois_bh/" target="_blanck">Aloïs Bélie</a> <br/>
+									
+									<img  class="image medium" src="images/festival/select/IMG-20240913-WA0022.jpg" alt="Photo de Aloïs Belie par Adèle Godefroy" />
+									<span align="center"> © A.G. 2024 </span>
+									<br/>
+						
+
+									<a href="https://manongouhier.com/" target="_blanck">Manon Gouhier - PHOTOGRAPHE CULINAIRE ENGAGÉE À LYON</a> 
+									
+									<br/>
+									
+									<img  class="image medium" src="images/festival/select/journee-avec-Olivia-9.png" alt="Photo de Manon Gouhier" />
+									<span align="center"> © M.G. 2024 </span>
+								</p>
+							</section>
+							</section>
+							<section>
+								<header>
+									<h3 id="festival_date">Festival de MOTIFS - 25 oct. 2024</h3>
+								</header>
+                <img  class="image medium" src="images/festival/select/1000025164 (10).png" alt="affiche festival light" />
+
+							
+
+						
+
+								<p> Réservez vos places directement ci-dessous : </p>
+							<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/association-motifs/evenements/festival-de-motifs-25-oct-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+							</section>
+						</article>
+						<hr />
+					</div>
+
+				</div>
+				<!-- Footer -->
+					<div id="footer">
+						<div class="container">
+
+							<div class="row">
+								<div class="col-12">
+
+									<!-- Contact -->
+										<section class="contact">
+											<header>
+												<h3>Curieux d'en savoir plus ?</h3>
+											</header>
+											<p>N'hésitez pas à nous contacter par courriel: <a href="mailto:contact@asso-motifs.fr">contact@asso-motifs.fr</a> <br/>
+												Vous pouvez également nous retrouver sur les réseaux sociaux via les logos ci-dessous.
+											</p>
+
+
+											<ul class="icons">
+												<li><a href="https://www.facebook.com/assomotifs" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+												<li><a href="https://www.instagram.com/assomotifs/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="https://github.com/assomotifs/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+											</ul>
+										</section>
+
+									<!-- Copyright -->
+										<div class="copyright">
+											<ul class="menu">
+												<li>&copy; Association MOTIFS.
+												</li>
+												<li>Design du site basé sur : <a href="http://html5up.net">HTML5 UP</a></li>
+												<p>
+													<br/>
+													<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Tous les travaux sont mis à disposition selon les termes de la <br/> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+												</p>
+											</ul>
+										</div>
+
+								</div>
+
+							</div>
+						</div>
+					</div>
+
+			</div>
+
+			<!-- Scripts -->
+				<script src="assets/js/jquery.min.js"></script>
+				<script src="assets/js/jquery.dropotron.min.js"></script>
+				<script src="assets/js/jquery.scrolly.min.js"></script>
+				<script src="assets/js/jquery.scrollex.min.js"></script>
+				<script src="assets/js/browser.min.js"></script>
+				<script src="assets/js/breakpoints.min.js"></script>
+				<script src="assets/js/util.js"></script>
+				<script src="assets/js/main.js"></script>
+
+		</body>
+	</html>
